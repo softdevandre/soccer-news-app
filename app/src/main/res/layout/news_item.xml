@@ -15,6 +15,8 @@
             android:id="@+id/ivThumbnail"
             android:layout_width="0dp"
             android:layout_height="@dimen/news_image_height"
+            android:scaleType="centerCrop"
+            android:paddingTop="50dp"
             android:contentDescription="@string/cd_news_image"
             android:src="@color/teal_200"
             app:layout_constraintEnd_toEndOf="parent"
