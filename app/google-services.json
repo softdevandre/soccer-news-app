@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "597741199266",
+    "project_id": "softdevandre-soccer-news",
+    "storage_bucket": "softdevandre-soccer-news.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597741199266:android:127e844d59c0292bd79cfb",
+        "android_client_info": {
+          "package_name": "me.dio.soccernews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "597741199266-2itu9g3dnj9lpolantnjp3jkvsukgm1a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrCUB5BO01elmnQj1lMKE2owlCHul_GPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "597741199266-2itu9g3dnj9lpolantnjp3jkvsukgm1a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
